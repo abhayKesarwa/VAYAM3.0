@@ -262,7 +262,7 @@ h5{
   content: "\f107";
   position: absolute;
   right: 15px;
-  font-family: 'Overpass Mono', monospace;
+/*   font-family: 'Overpass Mono', monospace; */
   font-style: normal;
   font-weight: normal;
 }
@@ -285,7 +285,7 @@ h5{
   text-decoration: none;
   display: inline-block;
   color: rgba(202, 206, 221, 0.8);
-  font-family: 'Overpass Mono', monospace;
+/*   font-family: 'Overpass Mono', monospace; */
   font-weight: 600;
   font-size: 14px;
   outline: none;
