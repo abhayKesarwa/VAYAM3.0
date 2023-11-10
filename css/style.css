@@ -1878,7 +1878,7 @@ h3{
 
   .sub-heading-text {
     text-align: center;
-    color: rgb(122, 122, 122);
+/*     color: white; */
     max-width: 500px;
     margin-top: 0px;
     margin-right: auto;
@@ -1942,7 +1942,7 @@ h3{
   }
 
   .sub-heading-text {
-    color: rgb(122, 122, 122);
+/*     color: rgb(122, 122, 122); */
     text-align: left;
   }
 
